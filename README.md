@@ -6,6 +6,7 @@ cd /feeds/scripts/
 Run php bbc.php
 
 Expected Output :
+----------------------
 
 {
     "results": [
@@ -49,4 +50,11 @@ cd /feeds/tests/
 run php phpunit.phar .
 
 The Unit tests results will look like :
-php phpunit.phar .
+----------------------------------------
+PHPUnit 4.4.5 by Sebastian Bergmann.
+
+.......
+
+Time: 1.38 seconds, Memory: 3.25Mb
+
+OK (7 tests, 9 assertions)
