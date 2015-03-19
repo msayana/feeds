@@ -49,8 +49,8 @@ Expected Output :
 cd /feeds/tests/
 run php phpunit.phar .
 
-The Unit tests results will look like :
-----------------------------------------
+Expected Output :
+----------------------
 PHPUnit 4.4.5 by Sebastian Bergmann.
 
 .......
